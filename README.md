@@ -1,6 +1,8 @@
 # Interactive Web Application for Visualizing and Analyzing HDB Resale Prices in Singapore
 
-<img width="1618" height="844" alt="Screenshot 2025-07-24 at 7 05 25 PM" src="https://github.com/user-attachments/assets/9eb58d6b-1673-4d49-a87d-742c844a5a68" />
+<img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 07 53 PM" src="https://github.com/user-attachments/assets/9c4cc51e-4962-4839-aa40-a8696c344c31" />
+
+
 
 Explore insightful trends and patterns in HDB resale prices using this interactive dashboard. Whether you're a homebuyer, researcher, or policymaker, this tool helps you uncover key factors that influence resale prices across Singapore's towns.
 
