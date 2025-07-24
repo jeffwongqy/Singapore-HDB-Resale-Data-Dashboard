@@ -11,6 +11,9 @@ Explore insightful trends and patterns in HDB resale prices using this interacti
 
 <img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 07 33 PM" src="https://github.com/user-attachments/assets/0624bc49-a5d7-4f87-bfa2-339985fba0ab" />
 
+<img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 10 34 PM" src="https://github.com/user-attachments/assets/f66e89c6-df03-41f7-8c97-6a3fce2d4581" />
+
+
 
 2. 📈 **Resale Price Trend:** Track how median resale prices change over time across different towns and flat types.
 
