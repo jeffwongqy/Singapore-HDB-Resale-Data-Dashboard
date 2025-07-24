@@ -9,6 +9,9 @@ Explore insightful trends and patterns in HDB resale prices using this interacti
 ## 🔍 What you can explore:
 1. 📊 **Distribution of Resale Prices:** Visualize the distribution of median resale flat prices across towns and flat types to identify price ranges and outliers.
 
+<img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 07 33 PM" src="https://github.com/user-attachments/assets/0624bc49-a5d7-4f87-bfa2-339985fba0ab" />
+
+
 2. 📈 **Resale Price Trend:** Track how median resale prices change over time across different towns and flat types.
 
 3. 🏘️ **Town Analysis:** Filter by town, flat type, and other criteria to explore available units that meet your preferences.
