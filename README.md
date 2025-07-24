@@ -20,9 +20,19 @@ Explore insightful trends and patterns in HDB resale prices using this interacti
 
 <img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 12 25 PM" src="https://github.com/user-attachments/assets/21396f31-6548-4526-8abf-6495058b5628" />
 
+3. 📉 **Impact of Lease Years on Resale Prices:** Understand how the remaining lease duration affects the resale value of HDB flats across the island.
+   
+<img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 13 47 PM" src="https://github.com/user-attachments/assets/384aab75-ecb6-499b-9167-42c7137499dd" />
 
-4. 🏘️ **Town Analysis:** Filter by town, flat type, and other criteria to explore available units that meet your preferences.
+<img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 14 31 PM" src="https://github.com/user-attachments/assets/0689b3b8-bda8-4880-b3bf-18795c7ceca3" />
 
-5. 📉 **Impact of Lease Years on Resale Prices:** Understand how the remaining lease duration affects the resale value of HDB flats across the island.
+<img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 14 36 PM" src="https://github.com/user-attachments/assets/4d1fde42-c6e1-4db9-90ab-a24cab2d5dbc" />
+
+
+
+
+5. 🏘️ **Town Analysis:** Filter by town, flat type, and other criteria to explore available units that meet your preferences.
+
+
 
 
