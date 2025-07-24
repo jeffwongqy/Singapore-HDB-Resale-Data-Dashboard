@@ -29,9 +29,15 @@ Explore insightful trends and patterns in HDB resale prices using this interacti
 <img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 14 36 PM" src="https://github.com/user-attachments/assets/4d1fde42-c6e1-4db9-90ab-a24cab2d5dbc" />
 
 
+4. 🏘️ **Town Analysis:** Filter by town, flat type, and other criteria to explore available units that meet your preferences.
+<img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 16 37 PM" src="https://github.com/user-attachments/assets/c4745ff4-5507-4934-9637-afed6e9f70b5" />
+
+<img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 18 14 PM" src="https://github.com/user-attachments/assets/e2023078-0965-4376-bd96-77340c4fd520" />
+
+<img width="1680" height="1050" alt="Screenshot 2025-07-24 at 7 18 27 PM" src="https://github.com/user-attachments/assets/6db4c83d-d0be-448b-9a64-482de49737b5" />
 
 
-5. 🏘️ **Town Analysis:** Filter by town, flat type, and other criteria to explore available units that meet your preferences.
+
 
 
 
